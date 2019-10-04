@@ -9,6 +9,8 @@ Hacktoberfest Classroom Project 2019
 
 ## Participants
 
+### Sytose
+
 ### Jeff 
 [JeffHow](https://github.com/jeffhow/)
 > Simple doesn't always mean easy
